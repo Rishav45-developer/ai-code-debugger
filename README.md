@@ -1,13 +1,14 @@
 # AI Code Debugger
 
 > An intelligent, full-stack code analysis platform powered by large language models. Paste any code, get a structured breakdown of logic, identified vulnerabilities, corrected implementation, and a context-aware follow-up chat — all in real time.
+
 ![AI Code Debugger](https://img.shields.io/badge/AI-Code%20Debugger-blue?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
----
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000)
 
+---
 ## Live Demo
 
 **[Launch Application](https://huggingface.co/spaces/rishavdev/code-debugger-frontend)**
