@@ -11,7 +11,7 @@
 ---
 ## Live Demo
 
-**[Launch Application](https://huggingface.co/spaces/rishavdev/code-debugger-frontend)**
+**[Launch Application](https://rishavdev-code-debugger-frontend.hf.space)**
 
 ---
 
